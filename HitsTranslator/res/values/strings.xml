@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hits Translator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_dictionary_english_indonesia">DictionaryEnglishIndonesia</string>
+    <string name="title_activity_dictionary_indonesia_english">DictionaryIndonesiaEnglish</string>
+    <string name="title_activity_home">Home</string>
+
+</resources>
